@@ -1,0 +1,88 @@
+#                                   OPERATING SYSTEMS
+
+![logo(CS)](C:\Users\hp\Desktop\logo(CS).png)
+
+#####                                                                                                      Session 2022-2026
+
+####                                                                                  Submitted By:
+
+####                                                                                      2022-CS-14
+
+####                                                                                   Supervised By:
+
+####                                                                          Prof. Dr. Numan Shafi
+
+
+
+#####                                                                                        Department of Computer Science 
+
+#####                                                                                  University of Engineering and Technology 
+
+#####                                                                                                        Lahore, Pakistan
+
+
+
+#### Task 1:
+
+Here's the procedure for the installation of Ubuntu:
+
+1. Open VirtualBox and click on "New."
+
+2. Set the name to your preference, choose "Linux" as the type, and select "Ubuntu" as the version.
+3. Choose the amount of RAM for the virtual machine. Recommended is at least 2GB.
+4. Create a virtual hard disk or use an existing one. Allocate space based on your needs, but 25GB is a good starting point.
+5. With the virtual machine selected, click "Settings."
+6. Choose the Ubuntu ISO file you downloaded.
+7. Select your new virtual machine and click "Start."
+8. The machine will boot from the Ubuntu ISO.
+9. Follow the on-screen instructions to install Ubuntu.
+10. Choose language, keyboard layout, and select "Install Ubuntu.
+11. Provide your name, username, password, and computer name.
+12. Let the installation process complete. Once done, restart the virtual machine.
+13. Log in with the username and password you created during the installation.
+
+Here are some snippets of Ubuntu:
+
+
+
+<img src="C:\Users\hp\Desktop\Screenshot 1.png" alt="Screenshot 1" style="zoom:50%;" />
+
+#####                                                                                 Fig 1 : Oracle VM VirtualBox Manager
+
+
+
+<img src="C:\Users\hp\Desktop\Screenshot 2.png" alt="Screenshot 2" style="zoom:50%;" />
+
+#####                                                                                Fig 2 : Ubuntu Interface
+
+
+
+<img src="C:\Users\hp\Desktop\Screenshot 3.png" alt="Screenshot 3" style="zoom:50%;" />
+
+#####                                                                                     Fig 3 : Ubuntu Interface
+
+
+
+<img src="C:\Users\hp\Desktop\Screenshot 4.png" alt="Screenshot 4" style="zoom:50%;" />
+
+#####                                                                                    Fig 4 : Ubuntu Terminal Interface
+
+
+
+#### Task 2 :
+
+<img src="C:\Users\hp\Desktop\Screenshot 6.png" alt="Screenshot 6" style="zoom:50%;" />
+
+#####                                                                                  Fig 5 : Creating Files Command
+
+
+
+<img src="C:\Users\hp\Desktop\Screenshot 5.png" alt="Screenshot 5" style="zoom:50%;" />
+
+#####                                                                                             Fig 6 : CPP File Code
+
+
+
+<img src="C:\Users\hp\Desktop\Screenshot 7.png" alt="Screenshot 7" style="zoom:50%;" />
+
+#####                                                                                              Fig 7 : C File Code
